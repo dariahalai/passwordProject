@@ -11,7 +11,7 @@ export const Form = () => {
   };
 
   return (
-    <>
+    <section>
       <form>
         <input
           onChange={handleChange}
@@ -23,7 +23,7 @@ export const Form = () => {
           title="Password may contain letters, numbers, symbols. Min length 8 characters, max length - 16 characters."
         ></input>
       </form>
-      {passwordQuery.length > 8 && <StrengthPassword passwordQuery={passwordQuery} />}
-    </>
+      <StrengthPassword passwordQuery={passwordQuery} />
+    </section>
   );
 };
