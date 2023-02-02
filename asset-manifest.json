@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/passwordProject/static/css/main.7acaea2f.css",
+    "main.js": "/passwordProject/static/js/main.fd5bfc4d.js",
+    "index.html": "/passwordProject/index.html",
+    "main.7acaea2f.css.map": "/passwordProject/static/css/main.7acaea2f.css.map",
+    "main.fd5bfc4d.js.map": "/passwordProject/static/js/main.fd5bfc4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.fd5bfc4d.js"
+  ]
+}
